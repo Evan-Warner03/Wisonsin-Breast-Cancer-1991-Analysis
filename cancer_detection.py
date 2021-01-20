@@ -1,6 +1,7 @@
 # Program which is primarily used to analyze breast cancer data from wisconsin
-# Cretaed by Evan Warner, January 10, 2021
+# Created by Evan Warner, January 10, 2021
 
+# data obtained from: https://wisostat.uni-koeln.de/fileadmin/sites/statistik/Datenportal/data_descriptions/Breast_cancer_Wisconsin.pdf
 
 class Node():
     
